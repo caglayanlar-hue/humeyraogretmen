@@ -1,0 +1,6 @@
+{
+  "name": "Aile Bağları: \"Aile Dediğin\" Platformu",
+  "description": "Bilsem öğrencilerinin kaleminden \"Aile Dediğin\" rehberi, haftalık aile toplantısı tutanakları, eğlenceli etkinlikler ve iletişim köşesi platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
